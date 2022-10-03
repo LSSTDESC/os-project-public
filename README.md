@@ -1,2 +1,2 @@
 # os-project-public
-Repo to have the notebooks used in the paper Impact of Rubin Observatory cadence choices on supernovae photometric classification
+Repository to have the notebooks for the [Impact of OS on photometric classification of SNe](https://portal.lsst-desc.org/DESCPub/app/PB/show_project?pid=200) project.
